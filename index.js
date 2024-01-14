@@ -18,7 +18,7 @@ app.listen(4000,()=>{
 });
 
 mongoose
-  .connect("mongodb+srv://pranavkumar97954:pranavkumar97954@cluster0.ajcr8na.mongodb.net/test1?retryWrites=true&w=majority", {
+  .connect("mongodb+srv://aakashacad3000:aakashacad3000@cluster0.h58dy0y.mongodb.net/project0?retryWrites=true&w=majority", {
     // useNewUrlParser: true,
     // useUnifiedTopology: true,
   })
