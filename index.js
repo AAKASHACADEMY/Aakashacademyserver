@@ -39,7 +39,7 @@ app.use(
 app.use(cookieParser());
 app.use(express.json());
 
-app.use("/",authRoutes);
+//app.use("/",authRoutes);
 
 //Query
 app.get('/get-queries', async (req, res) => {
